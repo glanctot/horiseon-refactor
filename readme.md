@@ -13,7 +13,14 @@ I received html and css code for the Horiseon company.  The objective was to tak
 - Changed div to footer
 - Commented css file and consolidated code
 
-### Screenshots
+### Link
 
-![horiseon screenshots](./images/capture.png)
-![horiseon screenshots](./images/capture2.png)
+
+## Usage
+
+![horiseon screenshots](images/capture.png)
+![horiseon screenshots](images/capture2.png)
+
+## Credits
+
+[Markdown syntax](https://www.youtube.com/watch?v=bpdvNwvEeSE)
