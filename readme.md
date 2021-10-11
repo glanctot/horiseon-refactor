@@ -18,8 +18,8 @@ I received html and css code for the Horiseon company.  The objective was to tak
 
 ## Usage
 
-![horiseon screenshots](assets/images/capture.png)
-![horiseon screenshots](assets/images/capture2.png)
+![horiseon screenshots](./images/Capture.png)
+![horiseon screenshots](./images/Capture2.png)
 
 ## Credits
 
