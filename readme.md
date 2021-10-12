@@ -14,7 +14,7 @@ I received html and css code for the Horiseon company.  The objective was to tak
 - Commented css file and consolidated code
 
 ### Link
-
+https://glanctot.github.io/horiseon-refactor/
 
 ## Usage
 
