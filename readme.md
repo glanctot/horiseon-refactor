@@ -18,8 +18,8 @@ https://glanctot.github.io/horiseon-refactor/
 
 ## Usage
 
-![horiseon screenshots](images/Capture.png)
-![horiseon screenshots](images/Capture2.png)
+![Capture](https://user-images.githubusercontent.com/91084910/137522673-571fea80-d8d0-4578-bfa0-2d3c8b86e999.PNG)
+![Capture2](https://user-images.githubusercontent.com/91084910/137522775-83dfb791-cb28-4360-9b62-2662e6d4218b.PNG)
 
 ## Credits
 
